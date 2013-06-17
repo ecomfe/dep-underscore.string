@@ -1,0 +1,21 @@
+{
+    "name": "underscore.string",
+    "description": "String manipulation extensions for Underscore.js javascript library.",
+    "version": "2.3.1",
+    "main": "underscore.string.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ecomfe/dep-underscore.string.git"
+    },
+    "maintainers": [
+        {
+            "name": "Firede",
+            "email": "firede@firede.us"
+        }
+    ],
+    "license": "MIT",
+    "readmeFilename": "README.md",
+    "bugs": {
+        "url": "https://github.com/ecomfe/dep-underscore.string/issues"
+    }
+}
