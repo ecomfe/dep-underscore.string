@@ -612,8 +612,9 @@ define(function(require, exports, module) {
 
   // Integrate with Underscore.js if defined
   // or create our own underscore object.
-  root._ = root._ || {};
-  root._.string = root._.str = _s;
+  // 自动整合underscore会侵入window，我注释掉了，需要整合underscore请手动
+  // root._ = root._ || {};
+  // root._.string = root._.str = _s;
 }(this, String);
 
 // AMD Wrapper Footer
