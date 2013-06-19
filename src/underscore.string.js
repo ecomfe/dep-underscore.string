@@ -1,4 +1,4 @@
-// AMD Wrapper Header
+// Wrapper Header
 define(function(require, exports, module) {
 
 //  Underscore.string
@@ -617,5 +617,5 @@ define(function(require, exports, module) {
   // root._.string = root._.str = _s;
 }(this, String);
 
-// AMD Wrapper Footer
+// Wrapper Footer
 });
