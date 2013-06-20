@@ -2,7 +2,7 @@
     "name": "underscore.string",
     "description": "String manipulation extensions for Underscore.js javascript library.",
     "version": "2.3.1",
-    "main": "underscore.string.js",
+    "main": "underscore.string",
     "repository": {
         "type": "git",
         "url": "git://github.com/ecomfe/dep-underscore.string.git"
